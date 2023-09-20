@@ -1,0 +1,48 @@
+*{margin:0;padding:0;}
+body{background-image:url('../media/images/raf,750x1000,075,t,fafafa_ca443f4786.jpg');
+    background-position:top;background-size:200px;
+    /* background-size:auto;background-repeat:repeat; */
+    }
+
+h1{color: rgb(255, 255, 255);background-color:rgb(156, 126, 220);}
+h3{border:3px dotted;
+    width:fit-content;background-color:rgb(250, 212, 228);}
+
+.book{width:250px;
+        height:auto;
+        left:365px;
+        position: absolute;}
+    
+.movie{width:250px;
+        height:auto;
+        left:650px;
+        position: absolute;}
+    
+.ai{width:100px;
+        height:auto;
+        position:absolute;
+        top:460px;left:80px;}
+    
+.traits{background-color:rgb(250, 212, 228);
+        position:absolute;
+        top:490px;left:180px;
+        transform:translate(0,-40%);
+        padding:10px;
+        width:950px;
+        height:auto;
+        font-size:14pt;
+        font-family:cursive;}
+    
+    .carlisle{top:600px;
+        left:250px;
+        position:absolute;}    
+    
+    .audio{background-color:rgb(250, 212, 228);
+        position:absolute;
+        top:620px;left:550px;
+        transform:translate(0,-40%);
+        padding:10px;
+        /* width:500px; */
+        height:auto;
+        font-size:14pt;
+        font-family:monospace;}
