@@ -10,12 +10,12 @@ h3{border:3px dotted;
     width:fit-content;background-color: rgb(211, 179, 240);}
 .book{width:250px;
     height:auto;
-    left:370px;
+    left:270px;
     position: absolute;}
 
 .movie{width:250px;
     height:auto;
-    left:655px;
+    left:755px;
     position: absolute;}
 
 .ai{width:100px;
@@ -46,3 +46,7 @@ h3{border:3px dotted;
     height:auto;
     font-size:14pt;
     font-family:monospace;}
+    
+.info{top:100px;
+    left:525px;
+    position:absolute;background-color:rgb(211, 179, 240);} 
