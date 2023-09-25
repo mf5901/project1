@@ -21,11 +21,11 @@ h3{border:3px dotted;
 .ai{width:100px;
         height:auto;
         position:absolute;
-        top:460px;left:80px;}
+        top:480px;left:80px;}
     
 .traits{background-color:rgb(214, 234, 247);
         position:absolute;
-        top:490px;left:180px;
+        top:570px;left:180px;
         transform:translate(0,-40%);
         padding:10px;
         width:950px;
@@ -33,13 +33,13 @@ h3{border:3px dotted;
         font-size:14pt;
         font-family:cursive;}
     
-    .carlisle{top:600px;
+    .carlisle{top:730px;
         left:250px;
         position:absolute;}    
     
     .audio{background-color:rgb(214, 234, 247);
         position:absolute;
-        top:620px;left:550px;
+        top:750px;left:550px;
         transform:translate(0,-40%);
         padding:10px;
         /* width:500px; */

@@ -10,22 +10,22 @@ h3{border:3px dotted;
     width:fit-content;background-color: rgb(211, 179, 240);}
 .book{width:250px;
     height:auto;
-    left:270px;
+    left:355px;
     position: absolute;}
 
 .movie{width:250px;
     height:auto;
-    left:755px;
+    left:650px;
     position: absolute;}
 
 .ai{width:100px;
     height:auto;
     position:absolute;
-    top:440px;left:80px;}
+    top:460px;left:80px;}
 
 .traits{background-color:rgb(211, 179, 240) ;
     position:absolute;
-    top:480px;left:180px;
+    top:560px;left:180px;
     transform:translate(0,-40%);
     padding:10px;
     width:950px;
@@ -33,13 +33,13 @@ h3{border:3px dotted;
     font-size:14pt;
     font-family:cursive;}
 
-.bella{top:600px;
+.bella{top:740px;
     left:250px;
     position:absolute;}    
 
 .audio{background-color:rgb(211, 179, 240) ;
     position:absolute;
-    top:620px;left:550px;
+    top:760px;left:550px;
     transform:translate(0,-40%);
     padding:10px;
     /* width:500px; */
@@ -48,5 +48,5 @@ h3{border:3px dotted;
     font-family:monospace;}
     
 .info{top:100px;
-    left:525px;
+    left:515px;
     position:absolute;background-color:rgb(211, 179, 240);} 

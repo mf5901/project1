@@ -24,11 +24,11 @@ h3{border:3px dotted;
 .ai{width:100px;
         height:auto;
         position:absolute;
-        top:490px;left:80px;}
+        top:500px;left:80px;}
     
 .traits{background-color:rgb(185, 121, 3);
         position:absolute;
-        top:510px;left:180px;
+        top:590px;left:180px;
         transform:translate(0,-40%);
         padding:10px;
         width:950px;
@@ -36,13 +36,13 @@ h3{border:3px dotted;
         font-size:14pt;
         font-family:cursive;}
     
-.jasper{top:600px;
+.jasper{top:740px;
         left:250px;
         position:absolute;}    
     
 .audio{background-color:rgb(185, 121, 3);
         position:absolute;
-        top:620px;left:550px;
+        top:760px;left:550px;
         transform:translate(0,-40%);
         padding:10px;
         /* width:500px; */
