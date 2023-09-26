@@ -38,7 +38,7 @@ h3{border:3px dotted;
         left:300px;
         position:absolute;}    
     
-    .audio{background-color:rgb(220, 186, 140);
+    .audio{background-color:rgb(120, 86, 40);
         position:absolute;
         top:720px;left:600px;
         transform:translate(0,-40%);
@@ -47,3 +47,11 @@ h3{border:3px dotted;
         height:auto;
         font-size:14pt;
         font-family:monospace;}
+
+        .info{opacity: 0.95;
+            top:650px;
+            /* left:515px; */
+            position:relative;
+            padding:10px;
+            font-size:14pt;
+            background-color:rgb(220, 186, 140);} 

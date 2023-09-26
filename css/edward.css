@@ -37,7 +37,7 @@ h3{border:3px dotted;
         left:250px;
         position:absolute;}    
     
-    .audio{background-color: rgb(207, 209, 222) ;
+    .audio{background-color:rgb(131, 134, 137) ;
         position:absolute;
         top:720px;left:550px;
         transform:translate(0,-40%);
@@ -47,6 +47,10 @@ h3{border:3px dotted;
         font-size:14pt;
         font-family:monospace;}
 
-        /* .info{top:100px;
-            left:500px;
-          position:absolute;background-color:rgb(207, 209, 222);}  */
+        .info{opacity: 0.95;
+            top:650px;
+            /* left:515px; */
+            position:relative;
+            padding:10px;
+            font-size:14pt;
+            background-color:rgb(207, 209, 222);}      
